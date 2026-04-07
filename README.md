@@ -16,7 +16,7 @@ Indie maker in Gothenburg, Sweden. Founder of [Maivor AB](https://www.maivor.ai)
 - [Djurförsäkringskollen](https://www.djurforsakringskollen.se) — Jämför djurförsäkringar
 - [Privatlånskollen](https://www.privatlanskollen.se) — Smarta lånekalkylatorer
 - [Poängkollen](https://www.poangkollen.se) — Optimera resepoäng
-- [Dronarlabbet](https://www.dronarlabbet.se) — Oberoende drönartester
+- [Dronarlabbet](https://www.dronarlabbet.se) — Hitta din drömdrönare
 - [Avtalskollen](https://www.avtalskollen.ai) — AI-driven avtalsanalys
 - [Byggkollen](https://www.byggkollen.ai) — Jämför renoveringsofferter med AI
 
