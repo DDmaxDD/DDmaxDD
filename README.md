@@ -19,10 +19,13 @@ Indie maker in Gothenburg, Sweden. Founder of [Maivor AB](https://www.maivor.ai)
 - [Dronarlabbet](https://www.dronarlabbet.se) — Hitta din drömdrönare
 - [Avtalskollen](https://www.avtalskollen.ai) — AI-driven avtalsanalys
 - [Byggkollen](https://www.byggkollen.ai) — Jämför renoveringsofferter med AI
+- [Matkassekollen](https://www.matkassekollen.se) — Jämför och optimera dina matkassar
+- [Företagsförsäkringskollen](https://www.foretagsforsakringskollen.se) — Jämför och förenkla hur du köper företagsförsäkringar
 
 ### Other
 - [Spoil the Paw](https://www.spoilthepaw.com) — Dog gear guides
 - [SafeCamp360](https://www.safecamp360.com) — Digital catch reporting for fishing camps
+- [Sportfiskelabbet](https://www.sportfiskelabbet.se) — Din guide i sportfiskedjungeln
 - [Visit Lyse](https://www.visitlyse.se) — Semesterboende i Bohuslän
 - [Afrohouse](https://www.afrohouse.se) — Sveriges afro house-sajt
 
