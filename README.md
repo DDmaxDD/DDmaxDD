@@ -1,6 +1,6 @@
 # Hey, I'm Daniel Dahlén 👋
 
-Indie maker in Gothenburg, Sweden. Founder of [Maivor AB](https://www.maivor.ai). Building 15+ digital products that help consumers compare, analyze and make better decisions.
+Indie maker in Gothenburg, Sweden. Founder of [Maivor AB](https://www.maivor.ai). Building digital products that help consumers compare, analyze and make better decisions.
 
 ## Products
 
@@ -28,7 +28,7 @@ Indie maker in Gothenburg, Sweden. Founder of [Maivor AB](https://www.maivor.ai)
 - [Sportfiskelabbet](https://www.sportfiskelabbet.se) — Din guide i sportfiskedjungeln
 - [Visit Lyse](https://www.visitlyse.se) — Semesterboende i Bohuslän
 - [Afrohouse](https://www.afrohouse.se) — Sveriges afro house-sajt
-
+- [ActionOwl](https://www.actionowl.io) — ActionOwl turns scattered marketing signals into evidence-backed actions, gets the right human or agent to implement them, and verifies what happened next.
 ## Tech Stack
 
 Next.js · TypeScript · Supabase · Tailwind CSS · Stripe · Twilio · OpenAI · Anthropic · Google Gemini · Vercel
