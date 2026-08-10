@@ -1,6 +1,6 @@
 # Hey, I'm Daniel Dahlén 👋
 
-Indie maker in Gothenburg, Sweden. Founder of [Maivor AB](https://www.maivor.ai). Building digital products that help consumers compare, analyze and make better decisions.
+Daniel Dahlén is an Indie maker and entrepreneurin Gothenburg, Sweden. Founder of [Maivor AB](https://www.maivor.ai). Building digital products that help consumers compare, analyze and make better decisions.
 
 ## Products
 
