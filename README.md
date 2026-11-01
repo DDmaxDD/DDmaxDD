@@ -29,6 +29,7 @@ Daniel Dahlén is an Indie maker and entrepreneur in Gothenburg, Sweden. Founder
 - [Visit Lyse](https://www.visitlyse.se) — Semesterboende i Bohuslän
 - [Afrohouse](https://www.afrohouse.se) — Sveriges afro house-sajt
 - [ActionOwl](https://www.actionowl.io) — ActionOwl turns scattered marketing signals into evidence-backed actions, gets the right human or agent to implement them, and verifies what happened next.
+- [Trädvårdskollen](https://www.tradvardskollen.se/offert-tradfallning) — Skapa gratis jobbunderlag för trädfällning, beskärning och stubbfräsning
 ## Tech Stack
 
 Next.js · TypeScript · Supabase · Tailwind CSS · Stripe · Twilio · OpenAI · Anthropic · Google Gemini · Vercel
