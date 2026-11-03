@@ -23,6 +23,7 @@ Daniel Dahlén is an Indie maker and entrepreneur in Gothenburg, Sweden. Founder
 - [Företagsförsäkringskollen](https://www.foretagsforsakringskollen.se) — Jämför och förenkla hur du köper företagsförsäkringar
 
 ### Other
+- [Devacant](https://www.devacant.se) — Devacant hjälper företag att hitta lokal att hyra för verkstad, lättindustri, lager och logistik
 - [Spoil the Paw](https://www.spoilthepaw.com) — Dog gear guides
 - [SafeCamp360](https://www.safecamp360.com) — Digital catch reporting for fishing camps
 - [Sportfiskelabbet](https://www.sportfiskelabbet.se) — Din guide i sportfiskedjungeln
