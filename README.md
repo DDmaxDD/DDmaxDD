@@ -17,7 +17,6 @@ Daniel Dahlén is an Indie maker and entrepreneur in Gothenburg, Sweden. Founder
 - [Privatlånskollen](https://www.privatlanskollen.se) — Smarta lånekalkylatorer
 - [Poängkollen](https://www.poangkollen.se) — Optimera resepoäng
 - [Dronarlabbet](https://www.dronarlabbet.se) — Hitta din drömdrönare
-- [Avtalskollen](https://www.avtalskollen.ai) — AI-driven avtalsanalys
 - [Byggkollen](https://www.byggkollen.ai) — Jämför renoveringsofferter med AI
 - [Matkassekollen](https://www.matkassekollen.se) — Jämför och optimera dina matkassar
 - [Företagsförsäkringskollen](https://www.foretagsforsakringskollen.se) — Jämför och förenkla hur du köper företagsförsäkringar
